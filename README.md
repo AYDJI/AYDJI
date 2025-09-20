@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alon</h1>
-<h3 align="center">A passionate developer from the USA🇺🇸</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working on [Star Locked✨](PushUP detector)
 
@@ -7,11 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.com/AYDJI](GitHub.com/AYDJI)
 
-- 📫 How to reach me **Alibi.yehezkeli1@gmail.com**
-
-- ⚡ Fun fact **1+1=2**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **Aloni.yehezkeli1@gmail.com**
 <p align="left">
 </p>
 
