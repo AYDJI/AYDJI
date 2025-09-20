@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alon</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [Star Locked✨](PushUP detector)
+- 🔭 I’m currently working on Star Locked, PushUP detector
 
 - 🌱 I’m currently learning **Python open CV, godot**
 
