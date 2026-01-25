@@ -6,7 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.com/AYDJI](GitHub.com/AYDJI)
 
-- 📫 How to reach me **Aloni.yehezkeli1@gmail.com**
 <p align="left">
 </p>
 
